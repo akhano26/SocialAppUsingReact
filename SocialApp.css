@@ -1,0 +1,23 @@
+.containermain{
+  display:flex;
+}
+.hfcontainer{
+  width: 100%;
+}
+.sidebar{
+  width: 20rem;
+}
+.cardcontainer{
+  margin:30px 50px
+}
+.tags{
+  margin: 5px 5px
+}
+.reaction{
+  margin: 10px 0 0 0 0 !important;
+}
+.Form{
+  width: 80%;
+  margin-left: 10%;
+  margin-top: 10px;
+}
